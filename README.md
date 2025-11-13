@@ -1,6 +1,6 @@
 # Redovisning
 ## Markdown 
-Hjälpmedel för att formatera text så att det blir lättläst. Det finns ett [Mardkdown Cheat Sheet](https://www.example.com) som hjälper oss bli bekanta med hur vi skriver kod. 
+Hjälpmedel för att formatera text så att det blir lättläst. Det finns ett [Mardkdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) som hjälper oss bli bekanta med hur vi skriver kod. 
 
 <img width="412" height="399" alt="image" src="https://github.com/user-attachments/assets/1920aaf9-8278-4d93-91cd-3bdc16e7f62c" />
 
