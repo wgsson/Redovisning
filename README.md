@@ -1,7 +1,7 @@
 # Redovisning
 I den här redovisningen kommer vi att prata om Markdown och Emmet Commands – två hjälpmedel som underlättar arbetet med att skriva och strukturera kod.
 ## Markdown 
-Hjälpmedel för att formatera text så att det blir lättläst. Det finns ett [Mardkdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) som hjälper oss bli bekanta med hur vi skriver kod. 
+Hjälpmedel för att formatera text så att den blir strukturerad och mer lättläst. Det finns ett [Mardkdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) som hjälper oss bli bekanta med hur vi skriver kod. 
 
 - ``# H1`` = Heading 1
 - ``# H2`` = Heading 2
